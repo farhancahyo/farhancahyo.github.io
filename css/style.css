@@ -1,0 +1,44 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+body {
+    margin-top: 50px;
+    font-family: Georgia, serif;
+}
+
+.jumbotron img {
+    width: 25%;
+}
+
+section {
+    min-height: 450px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top:12px;
+}
+
+.title-exp{
+    margin-left: 5%;
+}
+
+.point {
+    margin-left: 10%;
+}
+
+.bg-mehong {
+    background-color: #82ccdd
+}
+
+
+.btn-social {
+    border-radius: 100%;
+    display: inline-flex;
+    width: 3.25rem;
+    height: 3.25rem;
+    font-size: 1.25rem;
+    justify-content: center;
+    align-items: center;
+  }
