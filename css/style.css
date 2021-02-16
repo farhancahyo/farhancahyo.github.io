@@ -1,6 +1,6 @@
 html {
     scroll-behavior: smooth;
-  }
+}
 
 body {
     margin-top: 50px;
@@ -29,12 +29,18 @@ footer {
 }
 
 .bg-mehong {
-    background-color: #82ccdd
+    background-color: #3498db
 }
 
 .card-img-top {
     width: 100%;
     height: 15vw;
+    object-fit: cover;
+}
+
+.pprofile {
+    width: 20vw;
+    height: 20vw;
     object-fit: cover;
 }
 
@@ -46,4 +52,4 @@ footer {
     font-size: 1.25rem;
     justify-content: center;
     align-items: center;
-  }
+}
